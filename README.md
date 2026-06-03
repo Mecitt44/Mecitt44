@@ -18,5 +18,5 @@ projelerimi bu doğrultuda geliştiriyorum.
 - [Özgeçmişimi İndirmek İçin Tıklayın](cv-ornegi.pdf)
 
 ## 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/majd-hasan-ali-b48278363]
+- **LinkedIn:** [LinkedIn Profilim](https://linkedin.com/in/majd-hasan-ali-b48278363)
 - **E-posta:** [majdhasan202020@gmail.com]
