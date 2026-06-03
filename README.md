@@ -15,7 +15,7 @@ projelerimi bu doğrultuda geliştiriyorum.
 - Düzenli ve Dokümantasyonu Güçlü Proje Geliştirme
 
 ## 📄 Özgeçmiş (CV)
-- [Özgeçmişimi İndirmek İçin Tıklayın](./CV.pdf)
+- [Özgeçmişimi İndirmek İçin Tıklayın](cv-ornegi.pdf)
 
 ## 📫 Bana Ulaşın
 - **LinkedIn:** []
