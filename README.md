@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, Ben Majd Hasan Ali 👋
 
-<!--
-**Mecitt44/Mecitt44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sakarya Uygulamalı Bilimler Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
+Veri tabanı yönetimi, veri modelleme ve siber güvenlik alanlarına ilgi duyuyorum; 
+projelerimi bu doğrultuda geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Yetkinlikler & Teknolojiler
+- **Programlama Dilleri:** C, C++, Python
+- **Veri Tabanı & Modelleme:** SQL, NoSQL (MongoDB)
+- **Diller:** İngilizce, Türkçe, Arapça
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Odak Alanlarım
+- Veri Tabanı Yönetim Sistemleri (DBMS)
+- Siber Güvenlik Analizi ve Uygulamaları
+- Düzenli ve Dokümantasyonu Güçlü Proje Geliştirme
+
+## 📄 Özgeçmiş (CV)
+- [Özgeçmişimi İndirmek İçin Tıklayın](./CV.pdf)
+
+## 📫 Bana Ulaşın
+- **LinkedIn:** []
+- **E-posta:** []
