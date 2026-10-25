@@ -1,6 +1,6 @@
 # Merhaba, Ben Majd Hasan Ali 👋
 
-Sakarya Uygulamalı Bilimler Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
+Sakarya Uygulamalı Bilimler Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 
 Veri tabanı yönetimi, veri modelleme ve siber güvenlik alanlarına ilgi duyuyorum; 
 projelerimi bu doğrultuda geliştiriyorum.
 
